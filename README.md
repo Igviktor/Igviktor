@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Igviktor
-- 👀 I’m interested in algorithm
+- 👋 Hi, I’m viktor
+- 👀 I’m intereted in algorithm
 - 🌱 I’m currently learning how to build electric vehicle
 - 💞️ I’m learning all I need through the help of internet
 - 📫 How to reach me +237 9067636116
